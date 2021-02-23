@@ -8,7 +8,7 @@ Click "choose file" then browse to the teleporter_upload.tar.gz.
 
 Click restore.
 
-![Alt text](./images/teleporter.PNG)
+![Alt text](teleporter)
 <img src="./images/teleporter.PNG">
 
 
