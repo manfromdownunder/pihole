@@ -8,7 +8,7 @@ Click "choose file" then browse to the teleporter_upload.tar.gz.
 
 Click restore.
 
-Open http://<pihole ip addrress>/admin/gravity.php
+Open http:/<pihole ip addrress>/admin/gravity.php
 Click the Update button to refresh adlists
 
 Done
