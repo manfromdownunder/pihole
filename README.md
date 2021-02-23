@@ -6,4 +6,9 @@ Download teleporter_upload.tar.gz
 In Pihole settings select the teleporter tab.  Uncheck all restore options except for Adlists and Blacklist (regex/wildcard)
 Click "choose file" then browse to the teleporter_upload.tar.gz.
 
-Click restore and you are done!
+Click restore.
+
+Open http://<pihole ip addrress>/admin/gravity.php
+Click the Update button to refresh adlists
+
+Done
