@@ -1,4 +1,4 @@
-# pihole adlists and regex/wildcard blacklist for over 4 million domains
+# Pihole adlist and regex/wildcard blacklist for over 4 million domains
 Regex, and adblock lists for over 4 million domains
 
 In Pihole settings select the teleporter tab.  Uncheck all restore options except for Adlists and Blacklist (regex/wildcard)
