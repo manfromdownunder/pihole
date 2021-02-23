@@ -15,3 +15,5 @@ Open http://piholeipaddress/admin/gravity.php
 Click the Update button to refresh adlists
 
 Done
+
+<img src="./images/dashboard.PNG">
