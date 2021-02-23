@@ -8,6 +8,10 @@ Click "choose file" then browse to the teleporter_upload.tar.gz.
 
 Click restore.
 
+![Alt text](./images/teleporter.PNG)
+<img src="./images/teleporter.PNG">
+
+
 Open http://piholeipaddress/admin/gravity.php
 Click the Update button to refresh adlists
 
